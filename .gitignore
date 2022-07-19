@@ -1,0 +1,9 @@
+# .gitignore
+Teafox_One.sln
+.vs/
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+Script/
