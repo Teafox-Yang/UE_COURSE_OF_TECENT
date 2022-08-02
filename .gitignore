@@ -1,8 +1,7 @@
 # .gitignore
-Teafox_One.sln
+Netshoot.sln
 .vs/
 Binaries/
-Build/
 DerivedDataCache/
 Intermediate/
 Saved/
